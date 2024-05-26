@@ -98,7 +98,7 @@ const embeds = [
 
   
     new EmbedBuilder()
-    .setColor('#FF0000')
+    .setColor('#ff2300')
     .setAuthor({
         name: 'Request Update!',
         iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802049190920202/4104-verify-red.gif?ex=6639552b&is=663803ab&hm=8dbc851fe56441b916a0044152dd517ed26434a11ee506518382f380c527c3bd&', 
@@ -116,7 +116,7 @@ await interaction.followUp({ embeds: [embeds[randomIndex]] });
     } catch (error) {
         console.error('Error processing play command:', error);
         const errorEmbed = new EmbedBuilder()
-            .setColor('#ff0000')
+            .setColor('#ff2300')
             .setTitle('Error')
             .setDescription('An error occurred while processing your request.');
 
