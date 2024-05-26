@@ -81,8 +81,8 @@ const embeds = [
         .setColor('#4d9fd6')
         .setAuthor({
             name: 'Request Update!',
-            iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236794583732457473/7828-verify-ak.gif?ex=66394e37&is=6637fcb7&hm=923d3f3b300606a2ae4ceb7bae980fd533a4c5ee2cf73111569a892a595f1f69&', 
-            url: 'https://discord.gg/xQF9f9yUEM'
+            iconURL: 'https://media.discordapp.net/attachments/1231610244459790338/1242905195604738158/standard.gif?ex=6654266a&is=6652d4ea&hm=c8314dfece411afa464bfcc16e0ce5dea1c7bb93e06d622c1e1b930e7803b4ff&=', 
+            url: 'https://discord.gg/jASszHTTXD'
         })
         .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
 
@@ -91,8 +91,8 @@ const embeds = [
     .setColor('#ffea00')
     .setAuthor({
         name: 'Request Update!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802032938127470/4104-verify-yellow.gif?ex=66395527&is=663803a7&hm=71a7fba7f91897e52d9645b45d85d3da0ff97af2b63d10960004e68ff40d9c3b&', 
-        url: 'https://discord.gg/xQF9f9yUEM'
+        iconURL: 'https://media.discordapp.net/attachments/1231610244459790338/1242905195604738158/standard.gif?ex=6654266a&is=6652d4ea&hm=c8314dfece411afa464bfcc16e0ce5dea1c7bb93e06d622c1e1b930e7803b4ff&=', 
+        url: 'https://discord.gg/jASszHTTXD'
     })
     .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**'),
 
@@ -101,8 +101,8 @@ const embeds = [
     .setColor('#ff2300')
     .setAuthor({
         name: 'Request Update!',
-        iconURL: 'https://cdn.discordapp.com/attachments/1230824451990622299/1236802049190920202/4104-verify-red.gif?ex=6639552b&is=663803ab&hm=8dbc851fe56441b916a0044152dd517ed26434a11ee506518382f380c527c3bd&', 
-        url: 'https://discord.gg/xQF9f9yUEM'
+        iconURL: 'https://media.discordapp.net/attachments/1231610244459790338/1242905195604738158/standard.gif?ex=6654266a&is=6652d4ea&hm=c8314dfece411afa464bfcc16e0ce5dea1c7bb93e06d622c1e1b930e7803b4ff&=', 
+        url: 'https://discord.gg/jASszHTTXD'
     })
     .setDescription('➡️ **Your request has been successfully processed.**\n➡️** Please use the buttons to control the queue**')
 ];
