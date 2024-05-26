@@ -26,8 +26,8 @@ module.exports = {
   ownerID: ["1004206704994566164", ""], 
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
-  embedColor: "00fbff",
-  errorLog: "", 
+  embedColor: "#ff2300",
+  errorLog: "1223287147730305124", 
 
 }
 /*
