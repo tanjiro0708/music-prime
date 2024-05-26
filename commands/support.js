@@ -30,8 +30,7 @@ module.exports = {
     try {
 
       const supportServerLink = "https://discord.gg/jASszHTTXD";
-    //  const githubLink = "None";
-     // const replitLink = "None";
+      const InviteBot = "https://discord.com/oauth2/authorize?client_id=1221847619953889370&permissions=8&scope=bot":
       const youtubeLink = "https://www.youtube.com/channel/UCopUn1EsL60mA65_bG3TT-Q";
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
